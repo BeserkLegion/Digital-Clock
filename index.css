@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+    font-size: 100px;
+    color: #17D4FE;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 7px;
+
+}
